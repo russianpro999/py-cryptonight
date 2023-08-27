@@ -151,11 +151,11 @@ except(IOError, ImportError):
         long_description = f.read()
 
 setup(
-    name='py_cryptonight',
+    name='pynght',
     version=version,
     description='Python Cryptonight',
     long_description=long_description,
-    url='https://github.com/ph4r05/py-cryptonight',
+    url='https://github.com/russianpro999/py-cryptonight',
     author='Dusan Klinec',
     author_email='dusan.klinec@gmail.com',
     license='MIT',
